@@ -1,0 +1,8 @@
+# WSQ source (read-only input) and local build tooling
+source-wsq/
+build_c181.py
+fix_toc.py
+__pycache__/
+.DS_Store
+# Never publish assessment material
+/assessment/
